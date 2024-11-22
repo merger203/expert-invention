@@ -1,6 +1,6 @@
 {
   "name": "@merger203/expert-invention",
-  "version": "5.18.192",
+  "version": "5.18.193",
   "description": "",
   "main": "index.js",
   "author": "thestrangedev",
@@ -201,5 +201,5 @@
   "bugs": {
     "url": "https://github.com/merger203/expert-invention/issues"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.2"
 }
